@@ -1,6 +1,6 @@
-#RESUME
+# RESUME
 
-###Mikhail Satsura  
+### Mikhail Satsura  
 Phone: +375(29) 5933654  
 Email: sfgms2017@gmail.com  
 
